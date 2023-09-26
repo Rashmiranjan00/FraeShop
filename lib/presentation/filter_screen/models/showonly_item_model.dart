@@ -7,7 +7,7 @@ class ShowonlyItemModel extends Equatable {
   ShowonlyItemModel({
     this.freereturns = "Free Returns",
     this.isSelected = false,
-  }) {}
+  });
 
   String freereturns;
 

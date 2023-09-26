@@ -16,7 +16,7 @@ class DashboardModel extends Equatable {
     this.flashsaleItemList = const [],
     this.megasaleItemList = const [],
     this.dashboardItemList = const [],
-  }) {}
+  });
 
   List<SliderofferbannItemModel> sliderofferbannItemList;
 

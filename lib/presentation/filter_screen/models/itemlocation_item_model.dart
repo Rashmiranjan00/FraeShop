@@ -7,7 +7,7 @@ class ItemlocationItemModel extends Equatable {
   ItemlocationItemModel({
     this.usonly = "US Only",
     this.isSelected = false,
-  }) {}
+  });
 
   String usonly;
 

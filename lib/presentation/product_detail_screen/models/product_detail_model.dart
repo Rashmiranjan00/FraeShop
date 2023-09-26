@@ -12,7 +12,7 @@ class ProductDetailModel extends Equatable {
     this.sliderItemList = const [],
     this.sizesItemList = const [],
     this.recomendedItemList = const [],
-  }) {}
+  });
 
   List<SliderItemModel> sliderItemList;
 

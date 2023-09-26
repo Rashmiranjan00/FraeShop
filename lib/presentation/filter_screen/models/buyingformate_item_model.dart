@@ -7,7 +7,7 @@ class BuyingformateItemModel extends Equatable {
   BuyingformateItemModel({
     this.alllistings = "All Listings",
     this.isSelected = false,
-  }) {}
+  });
 
   String alllistings;
 

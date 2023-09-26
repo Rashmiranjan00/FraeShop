@@ -12,7 +12,7 @@ class FilterModel extends Equatable {
     this.buyingformateItemList = const [],
     this.itemlocationItemList = const [],
     this.showonlyItemList = const [],
-  }) {}
+  });
 
   List<BuyingformateItemModel> buyingformateItemList;
 

@@ -9,7 +9,7 @@ class ProfileModel extends Equatable {
     this.name = "",
     this.username = "",
     this.email = "",
-  }) {}
+  });
 
   String name;
 

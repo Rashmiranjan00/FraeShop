@@ -6,7 +6,6 @@ import 'package:fraeshop/presentation/account_page/account_page.dart';
 import 'package:fraeshop/presentation/cart_page/cart_page.dart';
 import 'package:fraeshop/presentation/dashboard_page/dashboard_page.dart';
 import 'package:fraeshop/presentation/explore_page/explore_page.dart';
-import 'package:fraeshop/presentation/offer_screen_one_page/offer_screen_one_page.dart';
 import 'package:fraeshop/widgets/custom_bottom_bar.dart';
 
 // ignore_for_file: must_be_immutable
